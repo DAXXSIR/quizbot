@@ -1,6 +1,6 @@
-"""
-Simple Quiz Bot for Telegram
-"""
+#"""
+#Simple Quiz Bot for Telegram
+#"""
 
 from datetime import datetime
 import logging
